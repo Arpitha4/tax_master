@@ -1,24 +1,112 @@
 [
   {
     "TransactionDate": "2025-10-28",
-    "CustomerName": "Test",
-    "CountryCode": "123",
-    "ItemName": "TV",
-    "ItemRate": 20000.0,
+    "CustomerName": "Customer1",
+    "CountryCode": "INDIA",
+    "ItemName": "Laptop",
+    "ItemRate": 50000,
     "ItemQuantity": 1,
-    "ItemAmount": 20000.0,
-    "TaxAmount": 0.0,
-    "TotalAmount": 20000.0
+    "ItemAmount": 50000,
+    "TaxAmount": 5000,
+    "TotalAmount": 55000
   },
   {
     "TransactionDate": "2025-10-28",
-    "CustomerName": "Test1",
+    "CustomerName": "Customer1",
+    "CountryCode": "INDIA",
+    "ItemName": "Mouse",
+    "ItemRate": 800,
+    "ItemQuantity": 2,
+    "ItemAmount": 1600,
+    "TaxAmount": 0,
+    "TotalAmount": 1600
+  },
+  {
+    "TransactionDate": "2025-10-28",
+    "CustomerName": "Customer2",
     "CountryCode": "INDIA",
     "ItemName": "TV",
-    "ItemRate": 60000.0,
+    "ItemRate": 25000,
     "ItemQuantity": 1,
-    "ItemAmount": 60000.0,
-    "TaxAmount": 6000.0,
-    "TotalAmount": 66000.0
+    "ItemAmount": 25000,
+    "TaxAmount": 2500,
+    "TotalAmount": 27500
+  },
+  {
+    "TransactionDate": "2025-10-28",
+    "CustomerName": "Customer2",
+    "CountryCode": "INDIA",
+    "ItemName": "Pen",
+    "ItemRate": 100,
+    "ItemQuantity": 5,
+    "ItemAmount": 500,
+    "TaxAmount": 0,
+    "TotalAmount": 500
+  },
+  {
+    "TransactionDate": "2025-10-28",
+    "CustomerName": "Customer3",
+    "CountryCode": "INDIA",
+    "ItemName": "Refrigerator",
+    "ItemRate": 30000,
+    "ItemQuantity": 1,
+    "ItemAmount": 30000,
+    "TaxAmount": 3000,
+    "TotalAmount": 33000
+  },
+  {
+    "TransactionDate": "2025-10-28",
+    "CustomerName": "Customer3",
+    "CountryCode": "INDIA",
+    "ItemName": "Notebook",
+    "ItemRate": 200,
+    "ItemQuantity": 10,
+    "ItemAmount": 2000,
+    "TaxAmount": 0,
+    "TotalAmount": 2000
+  },
+  {
+    "TransactionDate": "2025-10-28",
+    "CustomerName": "Customer4",
+    "CountryCode": "INDIA",
+    "ItemName": "Mobile Phone",
+    "ItemRate": 18000,
+    "ItemQuantity": 1,
+    "ItemAmount": 18000,
+    "TaxAmount": 1800,
+    "TotalAmount": 19800
+  },
+  {
+    "TransactionDate": "2025-10-28",
+    "CustomerName": "Customer4",
+    "CountryCode": "INDIA",
+    "ItemName": "USB Cable",
+    "ItemRate": 500,
+    "ItemQuantity": 3,
+    "ItemAmount": 1500,
+    "TaxAmount": 0,
+    "TotalAmount": 1500
+  },
+  {
+    "TransactionDate": "2025-10-28",
+    "CustomerName": "Customer5",
+    "CountryCode": "INDIA",
+    "ItemName": "Washing Machine",
+    "ItemRate": 40000,
+    "ItemQuantity": 1,
+    "ItemAmount": 40000,
+    "TaxAmount": 4000,
+    "TotalAmount": 44000
+  },
+  {
+    "TransactionDate": "2025-10-28",
+    "CustomerName": "Customer5",
+    "CountryCode": "INDIA",
+    "ItemName": "Soap",
+    "ItemRate": 50,
+    "ItemQuantity": 10,
+    "ItemAmount": 500,
+    "TaxAmount": 0,
+    "TotalAmount": 500
   }
 ]
