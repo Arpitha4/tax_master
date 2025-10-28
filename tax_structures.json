@@ -1,0 +1,11 @@
+{
+  "default": {
+    "INDIA": {
+      "Above2000": 10,
+      "BelowOrEqual2000": 0
+    },
+    "OTHERS": {
+      "Any": 0
+    }
+  }
+}

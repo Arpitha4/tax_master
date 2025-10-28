@@ -1,0 +1,24 @@
+[
+  {
+    "TransactionDate": "2025-10-28",
+    "CustomerName": "Test",
+    "CountryCode": "123",
+    "ItemName": "TV",
+    "ItemRate": 20000.0,
+    "ItemQuantity": 1,
+    "ItemAmount": 20000.0,
+    "TaxAmount": 0.0,
+    "TotalAmount": 20000.0
+  },
+  {
+    "TransactionDate": "2025-10-28",
+    "CustomerName": "Test1",
+    "CountryCode": "INDIA",
+    "ItemName": "TV",
+    "ItemRate": 60000.0,
+    "ItemQuantity": 1,
+    "ItemAmount": 60000.0,
+    "TaxAmount": 6000.0,
+    "TotalAmount": 66000.0
+  }
+]
